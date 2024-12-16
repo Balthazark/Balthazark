@@ -9,8 +9,8 @@ I am a social software engineer with a genuine love for learning. I find enjoyme
 
 ### Currently learning
 <ul>
-  <li>Reviewing Data Structures & Algorithms in both Python and Rust, doing Neetcode 150</li>
-  <li>Learning Rust and Systems Design by rewriting the backend for Divvy</li>
-  <li>Learning Typescript, Next.js and Tailwind by developing a web app for Divvy</li>
+  <li>Learning Gleam! ⭐ </li>
+  <li>Learning Next.js, Three.js, Motion & Tailwind, Payload CMS for my portfolio page</li>
+  <li>Running my own home server</li>
 </ul>
 
